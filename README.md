@@ -1,2 +1,5 @@
 # crypto
-an app
+
+Asenkron çalışan şifreleme uygulaması.
+
+https://prnt.sc/s0hm41
